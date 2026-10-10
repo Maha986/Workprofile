@@ -43,7 +43,13 @@ Draw the abstract mood from the late-evening atmosphere of a great cosmopolitan 
 - Stack: AWS (S3, Glue, DMS, Redshift, DynamoDB) · Azure (ADF, ADLS Gen2) · Databricks (Spark, PySpark, Unity Catalog) · SQL (T-SQL, Redshift) · Delta Lake / Iceberg · SSIS, SSRS, Tableau, Python, C# · GenAI metadata engineering
 
 ### Maha Javed: Software Engineer (verified from the supplied résumé)
-- Contact: mahajaved986@gmail.com · linkedin.com/in/maha-javed · github.com/Maha986 · current portfolio: maha-javed.netlify.app (its content was not readable from this environment and is not included here)
+- Contact: mahajaved986@gmail.com · linkedin.com/in/maha-javed · github.com/Maha986 · current portfolio: maha-javed.netlify.app
+- Based in Karachi, Pakistan. (Nouman is based in Lahore, so present the duo as a two-city practice. Don't imply they share an office.)
+- From her current site (taken from screenshots she supplied):
+  - Headline: "Building interfaces people actually enjoy using."
+  - Positioning: "I build websites and web applications — from the interface down to the data behind it." Section title: "Design systems, end to end."
+  - What she does at Radium: frontend and website development (React + Tailwind CSS); design systems and Storybook, prototyping components for Canon before they ship into department-wide interfaces; accessibility, auditing and improving components for keyboard navigation and screen-reader support; backend development; database management; API integration; authentication and authorization flows.
+  - Stack shown on the site: React, Tailwind, Node.js, Express, PHP.
 - **Radium (Aug 2023 – Present), Software Engineer**
   - Builds and maintains a design system for Canon that is shared across multiple departments.
   - Prototypes components in Storybook before they ship. Works on accessibility (WCAG, keyboard navigation, screen readers).
@@ -61,6 +67,7 @@ Draw the abstract mood from the late-evening atmosphere of a great cosmopolitan 
 - Languages: English (full professional), Urdu (native)
 
 ### Team narrative
+- **The meeting point:** Maha's own line, "from the interface down to the data behind it", is where Nouman's work begins. Use that handoff as the station where the two lines meet.
 - **Junction (shared ground):** both hold software-engineering degrees. Both have SQL and database optimisation skills, Python, Git-based delivery, and production work at their current companies since mid-2023.
 - **Parallel lines:**
   - Nouman owns the data layer: ingestion, CDC, medallion lakehouses on AWS and Databricks, lineage, data quality, GenAI metadata and BI/reporting.
