@@ -14,6 +14,17 @@ Draw the abstract mood from the late-evening atmosphere of a great cosmopolitan 
 
 ---
 
+## Build Constraints (feed this alongside the prompt)
+
+- **Framework:** Next.js (latest stable, App Router) with TypeScript.
+- **One route only:** everything lives on `/`. Each section is its own component and is reached by anchor links (`#work`, `#team` and so on). Do not create extra pages.
+- **Rendering:** fully static, so it deploys to Netlify or Vercel with no server. Keep content in a typed data file (e.g. `content.ts`) built from the appendix below, not hard-coded in the JSX.
+- **Fonts and images:** use `next/font` and `next/image`.
+- **Motion:** CSS transitions or a small motion library, all switched off under `prefers-reduced-motion`.
+- **Accessibility:** WCAG AA contrast against the dark base, full keyboard navigation and semantic landmarks. Maha's own specialty is accessibility, so a page that fails this undercuts her pitch.
+
+---
+
 ## Content Appendix (feed this alongside the prompt)
 
 > Keep this appendix attached. If you remove it, the generator will fill the page with made-up achievements.
@@ -32,7 +43,7 @@ Draw the abstract mood from the late-evening atmosphere of a great cosmopolitan 
 - Stack: AWS (S3, Glue, DMS, Redshift, DynamoDB) · Azure (ADF, ADLS Gen2) · Databricks (Spark, PySpark, Unity Catalog) · SQL (T-SQL, Redshift) · Delta Lake / Iceberg · SSIS, SSRS, Tableau, Python, C# · GenAI metadata engineering
 
 ### Maha Javed: Software Engineer (verified from the supplied résumé)
-- Contact: mahajaved986@gmail.com · linkedin.com/in/maha-javed · github.com/Maha986
+- Contact: mahajaved986@gmail.com · linkedin.com/in/maha-javed · github.com/Maha986 · current portfolio: maha-javed.netlify.app (its content was not readable from this environment and is not included here)
 - **Radium (Aug 2023 – Present), Software Engineer**
   - Builds and maintains a design system for Canon that is shared across multiple departments.
   - Prototypes components in Storybook before they ship. Works on accessibility (WCAG, keyboard navigation, screen readers).
