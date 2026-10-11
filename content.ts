@@ -5,8 +5,7 @@
 export type Owner = "maha" | "nouman" | "both";
 
 export const brand = {
-  // Placeholder: replace with the practice's real name.
-  name: "Source to Screen",
+  name: "E2E Engineers",
   cities: "Karachi · Lahore",
 };
 
