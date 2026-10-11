@@ -1,8 +1,8 @@
-# Source to Screen
+# E2E Engineers
 
 One-page portfolio and pitch site for Maha Javed (full-stack web) and Muhammad Nouman Ali (data engineering and SQL). Built with Next.js (App Router, TypeScript) as a fully static export.
 
-"Source to Screen" is a placeholder name. Change it in `content.ts`.
+The brand name is set in `content.ts` (`brand.name`).
 
 ## Run locally
 
