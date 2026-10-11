@@ -56,11 +56,19 @@ Draw the abstract mood from the late-evening atmosphere of a great cosmopolitan 
   - Builds APIs and integrates them into React + Tailwind CSS projects across the frontend, backend and database layers.
 - **NED University Library website update (Mar 2022)**: moved the library to the free Google Books and Open Library APIs, added AJAX for instant resource retrieval, reorganised the file system and trained staff on the transition.
 - **Boossto Software (Apr–Jun 2022), PHP Developer Intern**: Laravel e-commerce platform, dynamic pages, database query optimisation and bug fixing.
-- Projects:
-  - **Cloud3** (final-year design project): secure, decentralised storage built with React, Node.js and Sequelize/MySQL. User data is encrypted and stored on IPFS, with metadata logged on a blockchain.
-  - **NoteWise** (Dec 2022 – Jan 2023): MERN note-management platform.
-  - **ShopEase** (Sep–Oct 2022): e-commerce UI built with React and Material UI.
-  - **Code Hub** (Sep–Nov 2021): PHP/MySQL learning platform with tutorials, live chat, notes and an online library.
+- Selected work (from the "Work I've shipped" section of her current site; she describes it as agency and client work from Radium plus personal projects). Lead with the first four.
+  - **Inclusense**, an accessibility widget (Next.js, Node.js, MongoDB). Built in-house at Radium. One line of code adds text resizing, high-contrast modes and text-to-speech to a site. Her site calls it a natural extension of the accessibility work behind Canon's design system. Live site exists.
+  - **Radium agency site** (Next.js, Node.js, MongoDB): the studio's own site, with case studies, service pages and the brand story for a digital agency whose clients include Canon Europe. Built and maintained as part of the in-house frontend team. Demo marked "coming soon".
+  - **UniVision**, university selection (Bootstrap Studio, HTML, CSS): an EdTech platform where high-school students and counsellors compare 2,500+ universities, build watchlists and get personalised recommendations, with an AI essay grader and a counsellor-facing chatbot. The 2,500+ figure is the size of the product's catalogue, not a result of her work.
+  - **iDonatio**, a giving platform (Bootstrap Studio, HTML, CSS): a portal for charities, religious organisations and individuals to manage incoming donations, paired with a donor app for secure giving, automated Gift Aid claims and real-time tracking.
+  - **Tracker**, BCBA fieldwork documentation (React): a tool for Board Certified Behavior Analysts and their trainees that simplifies BACB-compliant fieldwork tracking and keeps the required seven years of records organised and secure.
+  - **Metanoia**, a Web3 community platform (React): the frontend for an NFT-driven community brand, with a token-gated member experience.
+  - **Admin Dashboard** (React): an internal dashboard for managing users, content and daily operations.
+  - **Cloud3** (React, Node.js, Tailwind CSS, Sequelize/MySQL, IPFS, blockchain): her final-year project. Encrypted storage on IPFS with metadata logged on a blockchain, plus a companion browser extension for key management.
+  - **ProProgrammer** (PHP, HTML, CSS, jQuery, MySQL): a learning platform with tutorials, quizzes, assignments, certifications, chat, notes and an online library. Her résumé calls this "Code Hub".
+  - **Attire** (React, Material UI): a clothing e-commerce UI. Her résumé calls this "ShopEase".
+  - **NoteWise** (React, Bootstrap, Node.js, MongoDB): a MERN note-management platform.
+- For her client projects, her exact role isn't stated: was she the sole builder or responsible for the frontend only? Don't let the generator claim she built any of them alone. Phrase it as "built" or "contributed to", matching what's stated above.
 - Education: BE Software Engineering, NED University of Engineering and Technology (2019–2023), CGPA 3.886
 - Certificates: Coursera (Web Development; Building Web Applications in PHP) · Udemy (PHP & MySQL; The Complete Web Development Course)
 - Stack: React, Next.js, TypeScript, JavaScript, Tailwind, Storybook, Node.js/Express, PHP/Laravel, Python, MySQL, MongoDB, REST APIs, auth, caching, WCAG
@@ -73,4 +81,5 @@ Draw the abstract mood from the late-evening atmosphere of a great cosmopolitan 
   - Nouman owns the data layer: ingestion, CDC, medallion lakehouses on AWS and Databricks, lineage, data quality, GenAI metadata and BI/reporting.
   - Maha owns the product layer: design systems, accessible React/Next.js interfaces and the APIs that serve them.
   - Together they cover the full chain: source system → pipeline → governed warehouse → API → accessible UI.
+- **Shared domain:** Tracker (records kept under compliance rules in a clinical-adjacent field) sits close to Nouman's healthcare warehouse and reporting work. That's a credible place to show the two of them aiming at the same kind of client. Frame it as a shared domain, not a shared project.
 - **Shared proof:** neither résumé shows a project they delivered together. Present them as a "complementary practice" and do **not** claim joint clients or a joint track record. If a joint project exists, add it here with real details.
