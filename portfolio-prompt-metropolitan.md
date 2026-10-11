@@ -42,14 +42,14 @@ Draw the abstract mood from the late-evening atmosphere of a great cosmopolitan 
 - Education: BS Software Engineering, COMSATS University Islamabad (2018–2022)
 - Stack: AWS (S3, Glue, DMS, Redshift, DynamoDB) · Azure (ADF, ADLS Gen2) · Databricks (Spark, PySpark, Unity Catalog) · SQL (T-SQL, Redshift) · Delta Lake / Iceberg · SSIS, SSRS, Tableau, Python, C# · GenAI metadata engineering
 
-### Maha Javed: Software Engineer (verified from the supplied résumé)
+### Maha Javed: Software Engineer (verified from her résumé and screenshots of her current site)
 - Contact: mahajaved986@gmail.com · linkedin.com/in/maha-javed · github.com/Maha986 · current portfolio: maha-javed.netlify.app
 - Based in Karachi, Pakistan. (Nouman is based in Lahore, so present the duo as a two-city practice. Don't imply they share an office.)
 - From her current site (taken from screenshots she supplied):
   - Headline: "Building interfaces people actually enjoy using."
   - Positioning: "I build websites and web applications — from the interface down to the data behind it." Section title: "Design systems, end to end."
   - What she does at Radium: frontend and website development (React + Tailwind CSS); design systems and Storybook, prototyping components for Canon before they ship into department-wide interfaces; accessibility, auditing and improving components for keyboard navigation and screen-reader support; backend development; database management; API integration; authentication and authorization flows.
-  - Stack shown on the site: React, Tailwind, Node.js, Express, PHP.
+  - Stack shown on the site: React, Tailwind, Node.js, Express, PHP. (The site's scrolling Toolbox list was only partly visible in the screenshots; the full résumé stack is listed below.)
 - **Radium (Aug 2023 – Present), Software Engineer**
   - Builds and maintains a design system for Canon that is shared across multiple departments.
   - Prototypes components in Storybook before they ship. Works on accessibility (WCAG, keyboard navigation, screen readers).
